@@ -1,0 +1,16 @@
+	Name	Club_Position	Rating	Height	Weight	Preffered_Foot	Birth_Date	Age	Preffered_Position	Work_Rate	Weak_foot	Skill_Moves	Ball_Control	Dribbling	Marking	Sliding_Tackle	Standing_Tackle	Aggression	Reactions	Attacking_Position	Interceptions	Vision	Composure	Crossing	Short_Pass	Long_Pass	Acceleration	Speed	Stamina	Strength	Balance	Agility	Jumping	Heading	Shot_Power	Finishing	Long_Shots	Curve	Freekick_Accuracy	Penalties	Volleys	GK_Positioning	GK_Diving	GK_Kicking	GK_Handling	GK_Reflexes	First_Preffered_Position
+0	Luis Suárez	ST	92	182 cm	85 kg	Right	01/24/1987	30	ST	High / Medium	4	4	91	86	30	38	45	78	93	92	41	84	83	77	83	64	88	77	89	76	60	86	69	77	87	94	86	86	84	85	88	33	27	31	25	37	ST
+1	Robert Lewandowski	ST	90	185 cm	79 kg	Right	08/21/1988	28	ST	High / Medium	4	3	87	85	25	19	42	80	88	89	39	78	87	62	83	65	79	82	79	84	79	78	84	85	86	91	82	77	76	81	86	8	15	12	6	10	ST
+2	Zlatan Ibrahimović	ST	90	195 cm	95 kg	Right	10/03/1981	35	ST	Medium / Low	4	4	90	87	15	27	41	84	85	86	20	83	91	76	84	76	69	74	75	93	41	86	72	80	93	90	88	82	82	91	93	9	13	10	15	12	ST
+3	Gonzalo Higuaín	ST	89	184 cm	92 kg	Right	12/10/1987	29	ST	High / Medium	4	3	85	84	12	18	22	50	86	92	20	70	84	68	73	59	79	81	73	85	69	75	77	80	86	92	80	74	62	70	88	5	5	7	12	10	ST
+4	Sergio Agüero	ST	89	173 cm	70 kg	Right	06/02/1988	28	ST	High / Medium	4	4	89	89	13	12	20	57	88	91	24	83	90	70	79	63	92	86	74	73	90	86	80	68	87	90	84	82	72	80	85	11	13	6	15	14	ST
+5	Antoine Griezmann	RS	88	176 cm	67 kg	Left	03/21/1991	26	ST/LW	High / Medium	3	4	86	87	23	11	22	69	90	91	35	76	81	82	79	75	87	86	75	61	80	90	87	80	81	88	82	84	75	71	87	13	14	14	8	14	ST
+6	Alexis Sánchez	ST	88	169 cm	62 kg	Right	12/19/1988	28	ST/RM	High / High	3	4	86	89	30	35	39	80	87	86	42	82	82	80	80	73	88	84	85	72	87	90	85	70	84	85	81	78	78	77	83	12	10	15	10	13	ST
+7	Pierre-Emerick Aubameyang	ST	87	187 cm	80 kg	Right	06/18/1989	27	ST/RM	Medium / Low	4	3	82	82	28	36	25	45	87	89	48	77	79	77	77	64	95	96	79	77	69	80	77	79	81	88	79	78	74	82	86	9	6	15	9	9	ST
+8	Paulo Dybala	CAM	86	177 cm	74 kg	Left	11/15/1993	23	ST/CAM	Medium / Medium	3	4	91	91	14	20	20	48	85	85	24	82	82	78	83	67	91	86	81	65	85	91	75	68	82	88	88	88	82	84	88	5	5	4	4	8	ST
+9	Thomas Müller	CAM	86	186 cm	75 kg	Right	09/13/1989	27	CF/CAM/ST	High / High	4	3	82	75	31	44	41	57	92	93	58	81	83	74	81	68	76	79	90	67	72	77	81	82	77	87	80	81	59	60	83	14	6	11	7	14	CF
+10	Diego Costa	ST	86	188 cm	85 kg	Right	10/07/1988	28	ST	High / Medium	4	3	83	79	28	34	39	93	85	88	40	74	84	65	67	52	76	78	85	91	52	58	64	82	84	89	72	62	59	76	82	8	11	12	13	11	ST
+11	Edinson Cavani	ST	86	184 cm	71 kg	Right	02/14/1987	30	ST	High / High	3	3	80	80	24	27	45	82	85	89	48	77	81	70	75	50	76	79	90	74	59	82	88	88	85	85	78	75	74	84	84	13	12	13	5	10	ST
+12	Karim Benzema	ST	86	187 cm	79 kg	Right	12/19/1987	29	ST	Medium / Low	4	4	86	82	13	12	15	65	83	87	22	85	82	75	86	47	79	82	74	78	60	77	70	78	83	87	77	79	73	82	79	5	13	5	11	7	ST
+13	Harry Kane	RS	85	188 cm	86 kg	Right	07/28/1993	23	ST	High / High	3	3	82	77	41	38	36	74	85	86	35	72	83	70	75	67	69	77	84	84	62	74	70	83	86	88	80	71	66	82	70	14	8	11	10	11	ST
+14	Alexandre Lacazette	ST	85	175 cm	73 kg	Right	05/28/1991	25	ST	High / Medium	4	4	84	85	23	30	42	70	85	87	40	77	86	70	80	68	84	87	80	79	84	87	78	76	81	87	74	74	78	84	82	5	11	9	6	6	ST
